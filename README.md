@@ -1,24 +1,8 @@
-# portfolio
+# Portfolio Profissional para fins de avaliação na máteria de PWEB
 
-## Project setup
+## Realizado Deploy pela plataforma Netlify de forma gratuíta.
 ```
-yarn install
-```
+Acesse o site pelo seguinte endereço: https://portfolio-priscilalatance.netlify.app
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
