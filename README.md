@@ -1,4 +1,4 @@
-# Portfolio Profissional para fins de avaliação na máteria de PWEB
+# Portfólio Profissional para fins de avaliação na máteria de PWEB
 
 ## Realizado Deploy pela plataforma Netlify de forma gratuíta.
 ```
